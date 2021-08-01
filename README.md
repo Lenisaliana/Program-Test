@@ -1,7 +1,7 @@
-PROGRAM PENGURUTAN BILANGAN menggunakan C++
+PROGRAM PENGURUTAN BILANGAN MENGGUNAKAN C++
 
 I. GENERAL DESCRIPTION
-- Program ini dapat menerima input beberapa bilangan
+- Program ini dapat menerima inputan beberapa bilangan
 - Program memiliki fungsi dalam mengurutkan semua bilangan dari yang terkecil sampai yang terbesar
 - Program dapat menampilkan keluaran nilai rata-rata, nilai tengah dan hasil perkalian dari semua bilangan yang dimasukkan
 
