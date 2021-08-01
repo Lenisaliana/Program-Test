@@ -4,7 +4,7 @@ int main()
 {
     int bil[6], n, i, j, temp;
     float rata, total=0, nilai, median, jumlah;
-    
+    cout << "Masukkan 5 bilangan " <<endl; 
     for (n=1; n<=5; n++){
         cout << "Bilangan ke [ "<< n <<" ] : ";
         cin >> bil[n];
